@@ -23,7 +23,9 @@ app.listen(port,()=>{
     console.log('server live 3001');
 })
 }
-
+function Testing(){
+    return 0;
+}
 Testing()
 StartServer();
 
