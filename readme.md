@@ -9,3 +9,8 @@
 # git commit -m 'updates'
 # git push origin main 
 
+
+# server
+
+# npm install --save-dev jest
+# npm install --save-dev supertest

@@ -10,6 +10,7 @@ type User{
 
 type Query{
     getUsers(id:ID!):User
+    getAllUsers:[User]
 }
 
 input createUserInput{
