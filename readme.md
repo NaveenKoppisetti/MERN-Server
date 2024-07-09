@@ -14,3 +14,4 @@
 
 # npm install --save-dev jest
 # npm install --save-dev supertest
+# npm install node-fetch
